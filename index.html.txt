@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Andy Manners’ Stag ☘️</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont;
+      background: #14532d;
+      color: white;
+    }
+    .container {
+      max-width: 480px;
+      margin: auto;
+      padding: 16px;
+      background: #166534;
+      min-height: 100vh;
+    }
+    h1 {
+      text-align: center;
+    }
+    h3 {
+      margin-top: 24px;
+    }
+    a {
+      color: #bbf7d0;
+      text-decoration: underline;
+    }
+    .note {
+      background: #15803d;
+      padding: 12px;
+      border-radius: 12px;
+      margin-top: 16px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>☘️ Andy Manners’ Stag ☘️</h1>
+
+  <h3>Friday 1st May</h3>
+  <p>5:30pm – <a href="https://maps.google.com/?q=Sandman+Signature+Hotel+Glasgow" target="_blank">Sandman Signature Hotel</a></p>
+  <p>6:00pm – <a href="https://maps.google.com/?q=Bucks+Bar+Glasgow" target="_blank">Bucks Bar</a></p>
+  <p>8:30pm – <a href="https://maps.google.com/?q=Flight+Club+Glasgow" target="_blank">Flight Club</a></p>
+  <p>11:00pm – <a href="https://maps.google.com/?q=Howlin+Wolf+Glasgow" target="_blank">Howlin’ Wolf</a></p>
+
+  <h3>Saturday 2nd May</h3>
+  <p>9:45am – Meet reception (<strong>FULL KIT</strong>)</p>
+  <p>10:24am – <a href="https://maps.google.com/?q=Glasgow+Queen+Street+Station" target="_blank">Queen Street Station</a></p>
+  <p>11:30am – <a href="https://maps.google.com/?q=Footgolf+Cumbernauld" target="_blank">Footgolf Cumbernauld</a></p>
+  <p>1:30pm – Glasgow Mystery Tour / Pub Crawl</p>
+  <p>4:30pm – <a href="https://maps.google.com/?q=Sandman+Signature+Hotel+Glasgow" target="_blank">Sandman Signature Hotel</a></p>
+  <p>5:45pm – <a href="https://maps.google.com/?q=Chaakoo+Bombay+Cafe+Glasgow" target="_blank">Chaakoo Bombay Café</a></p>
+  <p>7:00pm – <a href="https://maps.google.com/?q=Malones+Irish+Bar+Glasgow" target="_blank">Malone’s Irish Bar</a></p>
+
+  <h3>Sunday 3rd May</h3>
+  <p>11:00am – Check‑out</p>
+  <p>11:30am – <a href="https://maps.google.com/?q=Clubhouse+Glasgow" target="_blank">Clubhouse (Hibs v Celtic)</a></p>
+  <p>3:05pm – <a href="https://maps.google.com/?q=Glasgow+Central+Station" target="_blank">Glasgow Central → Manchester</a></p>
+
+  <div class="note">
+    <p>🍳 Breakfast not included</p>
+    <p><strong>👕 FULL KIT compulsory Saturday</strong></p>
+  </div>
+
+  <p style="text-align:center;font-size:12px;margin-top:16px">
+    Open from WhatsApp → Add to Home Screen
+  </p>
+</div>
+
+</body>
+</html>
+``
